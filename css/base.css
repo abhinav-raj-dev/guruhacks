@@ -467,6 +467,10 @@ background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, F
 /*End links*/
 /*Misc */
 
+.pt-8 {
+    padding-top: 8px !important;
+}
+
 .pt-10 {
     padding-top: 10px !important;
 }
