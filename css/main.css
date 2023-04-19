@@ -1130,7 +1130,8 @@ select.error {
         padding-bottom: 12px;
     }
     .but {
-        padding: 11px 25px;
+        padding: 13px 35px;
+	margin-bottom: 50px;
     }
     .main-nav li:first-child a {
         padding-top: 7px;
