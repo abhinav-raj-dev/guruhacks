@@ -1428,7 +1428,7 @@ select.error {
     }
     .but {
         padding: 13px 35px;
-	margin-bottom: 50px;
+	margin-bottom: 50px !important;
     }
     .block-tickets.overlap {
         left: auto;
