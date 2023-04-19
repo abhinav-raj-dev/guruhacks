@@ -126,7 +126,7 @@
 .wrapper,
 .header {
     margin: 0 auto;
-    max-width: 1980px;
+    max-width: 1600px;
 }
 /*End site wrapper*/
 
@@ -1225,7 +1225,7 @@ select.error {
         font-size: 28px;
     }
     .but {
-        padding: 11px 25px;
+        padding: 13px 35px;
     }
     .block-ticket .block-price {
         font-size: 75px;
@@ -1424,7 +1424,7 @@ select.error {
         display: block;
     }
     .but {
-        padding: 11px 20px;
+        padding: 13px 35px;
     }
     .block-tickets.overlap {
         left: auto;
