@@ -1224,8 +1224,9 @@ select.error {
     .title {
         font-size: 28px;
     }
-    .but {
-        padding: 13px 35px;
+    .but{
+        padding: 12px 20px;
+        margin-bottom: 50px;
     }
     .block-ticket .block-price {
         font-size: 75px;
