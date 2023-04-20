@@ -64,11 +64,11 @@
     -o-animation: spinner-rotate 2s ease-in-out infinite;
 }
 .spinner {
-    animation: spinner-color 8s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
-    -webkit-animation: spinner-color 8s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
-    -moz-animation: spinner-color 8s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
-    -ms-animation: spinner-color 8s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
-    -o-animation: spinner-color 8s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
+    animation: spinner-color 4s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
+    -webkit-animation: spinner-color 4s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
+    -moz-animation: spinner-color 4s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
+    -ms-animation: spinner-color 4s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
+    -o-animation: spinner-color 4s ease-in-out infinite, spinner-dash 2s ease-in-out infinite;
     stroke-linecap: round;
 }
 @keyframes spinner-rotate {
