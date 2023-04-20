@@ -167,7 +167,7 @@ section.single-hero {
 }
 .overlay:before {
     position: absolute;
-    background: rgba(0, 0, 0, 0);
+    background: rgba(0, 0, 0, 1);
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,000000+32,000000+100&1+0,0.5+32,1+100 */
 
     background: -moz-linear-gradient(top, rgba(0, 0, 0, .2) 0%, rgba(0, 0, 0, 0.5) 32%, rgba(0, 0, 0, 1) 100%);
