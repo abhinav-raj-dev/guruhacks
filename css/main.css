@@ -351,7 +351,7 @@ h1.large {
 .block-content .col-sm-3:last-child .block-img:after {
     content: none;
 }
-.block-speaker .block-img .background-img {
+/* .block-speaker .block-img .background-img {
     filter: grayscale(0.5);
     -webkit-filter: grayscale(0.5);
     -moz-filter: grayscale(0.5);
@@ -364,7 +364,7 @@ h1.large {
     -moz-filter: grayscale(0);
     -ms-filter: grayscale(0);
     -o-filter: grayscale(0);
-}
+} */
 .block-info-2 {
     bottom: 30px;
     left: 30px;
