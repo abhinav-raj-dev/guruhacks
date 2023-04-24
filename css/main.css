@@ -440,6 +440,7 @@ ul.block-topic li {
 }
 .block-tabs li strong,
 .block-date strong {
+    color: white;
     font-size: 17px;
 }
 .block-tabs li i,
