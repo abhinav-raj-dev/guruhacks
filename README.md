@@ -2,11 +2,11 @@
 
 This is the Website for CODATHON, which aims to reduce the gap between the Public and the Hacker Community.
 
-https://ajrocks03.github.io/guruhacks/
+https://abhinav-raj-dev.github.io/guruhacks/
  
 ## Running the Website
 ```bash
-git clone https://github.com/AJROCKS03/guruhacks
+git clone https://github.com/Abhinav-raj-dev/guruhacks
 cd ajrocks.github.io
 #python 2
 python -m SimpleHTTPServer 
