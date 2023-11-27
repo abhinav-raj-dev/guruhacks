@@ -2,7 +2,7 @@
 
 This is the Website for CODATHON, which aims to reduce the gap between the Public and the Hacker Community.
 
-https://abhinav-raj-dev.github.io/guruhacks/
+https://ajrocks03.github.io/guruhacks/
  
 ## Running the Website
 ```bash
